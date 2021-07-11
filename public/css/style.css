@@ -2,7 +2,7 @@
 
 :root {
 	--dark-color-a: #0e0200;
-	--dark-color-b: #0828f8;
+	--dark-color-b: #2d00f7;
 	--light-color: #e6e9ff;
 	--success-color: #5cb85c;
 	--error-color: #d9534f;
@@ -47,8 +47,8 @@ a {
 	background: rgb(0, 0, 8);
 	margin: 30px auto;
 	overflow: hidden;
-	width: 1200px;
-	height: 600px;
+	width: 1500px;
+	height: 650px;
 
 	}
 
@@ -129,7 +129,7 @@ a {
 .chat-form-container input[type='text'] {
 	font-size: 16px;
 	padding: 5px;
-	height: 40px;
+	height: 80px;
 	flex: 1;
 }
 
